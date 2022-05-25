@@ -35,6 +35,10 @@ a {
 
 main {
     background-color: #282D35;
+    background: url(./images/background_logo.svg);
+    background-position-x: right;
+    background-position-y: 90%;
+    background-repeat: no-repeat;
 }
 
 main > div > h1 {
